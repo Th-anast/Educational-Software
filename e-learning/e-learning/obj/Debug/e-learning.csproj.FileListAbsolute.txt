@@ -1,0 +1,48 @@
+D:\VS source\e-learning\e-learning\bin\Debug\e-learning.exe.config
+D:\VS source\e-learning\e-learning\bin\Debug\e-learning.exe
+D:\VS source\e-learning\e-learning\bin\Debug\e-learning.pdb
+D:\VS source\e-learning\e-learning\bin\Debug\EntityFramework.dll
+D:\VS source\e-learning\e-learning\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS source\e-learning\e-learning\bin\Debug\System.Data.SQLite.dll
+D:\VS source\e-learning\e-learning\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VS source\e-learning\e-learning\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VS source\e-learning\e-learning\bin\Debug\EntityFramework.xml
+D:\VS source\e-learning\e-learning\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS source\e-learning\e-learning\bin\Debug\System.Data.SQLite.xml
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.csproj.AssemblyReference.cache
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.csproj.SuggestedBindingRedirects.cache
+D:\VS source\e-learning\e-learning\obj\Debug\e_learning.Form1.resources
+D:\VS source\e-learning\e-learning\obj\Debug\e_learning.Properties.Resources.resources
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.csproj.GenerateResource.cache
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.csproj.CoreCompileInputs.cache
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.csproj.CopyComplete
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.exe
+D:\VS source\e-learning\e-learning\obj\Debug\e-learning.pdb
+D:\VS source\e-learning\e-learning\obj\Debug\e_learning.Form2.resources
+D:\VS source\e-learning\e-learning\obj\Debug\e_learning.Form3.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.csproj.AssemblyReference.cache
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form1.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form2.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form3.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form4.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Properties.Resources.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.csproj.GenerateResource.cache
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.csproj.CoreCompileInputs.cache
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.exe
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.pdb
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\e-learning.exe.config
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\e-learning.exe
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\e-learning.pdb
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\EntityFramework.dll
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\System.Data.SQLite.EF6.dll
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\System.Data.SQLite.Linq.dll
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\EntityFramework.xml
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\bin\Debug\System.Data.SQLite.xml
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e-learning.csproj.CopyComplete
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form5.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form6.resources
+D:\OneDrive\Υπολογιστής\e-learning\e-learning\obj\Debug\e_learning.Form7.resources
